@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"music.player","c":"MusicLoader","l":"getInstance()"},{"p":"music.player","c":"MusicLoader","l":"loadMusic(String)","url":"loadMusic(java.lang.String)"},{"p":"music.player","c":"MusicPlayerApp","l":"main(String[])","url":"main(java.lang.String[])"},{"p":"music.player","c":"MusicPlayerApp","l":"MusicPlayerApp()","url":"%3Cinit%3E()"}]
